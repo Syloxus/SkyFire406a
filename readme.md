@@ -1,7 +1,7 @@
-# ![logo](http://www.projectskyfire.org/public/style_images/9_1_s2QNl.png) Project SkyFire
+## Project SkyFire - Patch 4.0.6a (Build 13623)
+![logo](http://i.imgur.com/s8M1lTd.png)
 
-
-## Introduction
+## Introduction:
 
 SkyFire is a *MMORPG* Framework based mostly in C++.
 
@@ -14,19 +14,7 @@ and functionality.
 
 It is completely open source; community involvement is highly encouraged.
 
-If you wish to contribute ideas or code please visit our site linked below or
-make pull requests to our 
-[Github repository](https://github.com/ProjectSkyfire/SkyFireEMU).
-
-For further information on the SkyFire project, please visit our project website at 
-[projectskyfire.org](http://www.projectskyfire.org).
-
-## Status
-
-[Build status] (https://travis-ci.org/ProjectSkyfire/SkyFireEMU/builds)
-
-## Requirements
-
+## Requirements for the 4.0.6a Core:
 + Platform: Linux, Windows or Mac
 + Processor with SSE2 support
 + ACE = 5.8.3 (included for Windows)
@@ -36,42 +24,28 @@ For further information on the SkyFire project, please visit our project website
 + GCC = 4.3 (Linux only)
 + MS Visual Studio = 9 (2008) (Windows only)
 
+## Install & Other Information:
 
-## Install
+Detailed installation guides are available in the wiki, as well as a lot more information you may need.
 
-Detailed installation guides are available in the wiki for
-[Windows] (http://wiki.projectskyfire.org/index.php?title=Installation_Windows),
-[Linux] (http://wiki.projectskyfire.org/index.php?title=Installation_Linux) and
-[Mac OSX] (http://wiki.projectskyfire.org/index.php?title=Installation_Mac_OS_X).
+You can find it here: [SkyFire Wiki](http://wiki.projectskyfire.org/index.php?title=Main_Page)
 
-
-## Reporting issues
-
-Issues can be reported via the [Github issue tracker](https://github.com/ProjectSkyfire/SkyFireEMU/issues).
-
-Please take the time to review existing issues before submitting your own to
-prevent duplicates.
-
-## Submitting fixes
-
-Fixes are submitted as pull requests via Github. 
-
-## Copyright
+## Copyright:
 
 License: GPL 3.0
 
-Read file [COPYING](COPYING.md)
+Read GPL 3.0 file: [COPYING](COPYING.md)
 
+## Links:
 
-## Authors &amp; Contributors
+The forum links may require signing into the SkyFire forums to access any files, the Wiki shouldn't require any sign-in:
 
-Read file [THANKS](https://github.com/ProjectSkyfire/SkyFireEMU/tree/master/doc/THANKS.md)
+[SkyFire's 4.0.6a Archived Repository](https://github.com/SkyFireArchives/SkyFireEMU_406a) - If you wish to visit the archive of the 4.0.6a SkyFire, here is the link.
 
+[SkyFire's Full Archived Repositories](https://github.com/SkyFireArchives) - This could also be useful, contains all of SkyFire's Archived Repositories.
 
-## Links
+[SkyFire Forums](http://www.projectskyfire.org) - For further information on the previous and current SkyFire projects, please visit their project Forums!
 
-Forum [http://www.projectskyfire.org](http://www.projectskyfire.org)
+[Database & Other Files](http://www.projectskyfire.org/index.php?/files/) - Contains files such as database files amongst others.
 
-Database [http://www.projectskyfire.org/index.php?/files/] (http://www.projectskyfire.org/index.php?/files/)
-
-Wiki [http://wiki.projectskyfire.org](http://wiki.projectskyfire.org)
+[SkyFire Wiki](http://wiki.projectskyfire.org/index.php?title=Main_Page) - Wiki page of SkyFire, includes a lot of useful information.
